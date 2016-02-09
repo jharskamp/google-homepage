@@ -1,0 +1,65 @@
+*{
+}
+img{
+	position: relative;
+	margin:0 auto ;
+	
+}
+.links{
+	text-decoration:none;
+	float:right;
+	padding:5px;
+	color:black;
+	font-size: .95em;
+}
+
+.sign_in{
+	height: 30px; width: 80px;
+	background-color:#3388cc;
+	float:right;
+	border-radius:2px;
+	color:white;
+	margin:auto;
+	text-align: center;
+	position: relative;
+	bottom:
+}
+p{
+	position: relative;
+	bottom:8px;
+	font-weight: bold;
+	font-family: Liberation Sans;
+	font-size: .95em;
+}
+.search_box{
+	background: white;
+	height: 30px;width:300px;
+	position: relative;
+	margin: 0 auto;
+	padding:0 auto;
+}
+form{
+	padding:2px;
+	margin: 0 auto;
+	width:500px; 
+	border-radius:2px;
+}
+.search_button,.lucky_button{
+	height:30px; width: 150px;
+	background-color:#c6c6c6;
+	position: relative;
+	text-align: center;
+	margin-top:40px;
+
+}
+.search_button{
+	
+	margin-left:720px;
+	float:left;
+
+}
+.lucky_button{
+
+	margin-right:800px; 
+	float: right;
+}
